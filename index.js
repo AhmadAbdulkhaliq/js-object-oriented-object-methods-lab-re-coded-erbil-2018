@@ -26,4 +26,4 @@ this.veto = function(){
   }
 }
 
-polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law")
+polishedBoardMember = new BoardMember("Ahmad", "Erbil", "Web")
